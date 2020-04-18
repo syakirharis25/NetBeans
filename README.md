@@ -22,6 +22,7 @@ NetBeans IDE is an open-source integrated development environment. NetBeans IDE 
 Java official website : https://www.oracle.com/java/ <br />
 NetBeans official website : https://netbeans.org <br />
 Apache NetBeans official website : https://netbeans.apache.org <br />
+Apache NetBeans official download page : https://netbeans.apache.org/download/index.html <br />
 
 <a name="javadevelopers"></a>
 ## 3. NetBeans developers.

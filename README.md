@@ -4,9 +4,10 @@ My works related to Apache NetBeans, an integrated development environment (IDE)
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [NetBeans developers.](#javadevelopers)
-4. [GitHub notes.](#github)
-5. [GitHub repository calculation.](#calculation)
+3. [NetBeans developers.](#developers)
+4. [NetBeans shortcuts.](#shortcuts)
+5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -30,12 +31,22 @@ Satck Overflow questions and answers website : https://stackoverflow.com <br />
 **_Apache NetBeans questions by Stack Overflow_** <br />
 How to fix error while installing NetBeans? by Stack Overflow : https://stackoverflow.com/questions/60771107/how-to-fix-error-while-installing-netbeans <br />
 
-<a name="javadevelopers"></a>
+<a name="developers"></a>
 ## 3. NetBeans developers.
 Roman Staněk : https://twitter.com/RomanStanek <br />
 
+<a name="shortcuts"></a>
+## 4. NetBeans shortcuts.
+
+**_NetBeans project management_** <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ N ]** : new project
+**[ Ctrl ]** + **[ Shift ]** + **[ O ]** : open project
+
+**_NetBeans file management_** <br />
+**[ Ctrl ]** + **[ N ]** : new file
+
 <a name="github"></a>
-## 4. GitHub notes.
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/NetBeans.git
@@ -45,7 +56,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 5. GitHub repository calculation.
+## 6. GitHub repository calculation.
 ```
 draft
 ```

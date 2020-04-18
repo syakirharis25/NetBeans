@@ -28,17 +28,17 @@ Apache NetBeans official website : https://netbeans.apache.org <br />
 Roman Staněk : https://twitter.com/RomanStanek <br />
 
 <a name="github"></a>
-## 5. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
-$ git clone https://github.com/syakirharis25/Spring.git
-$ cd Spring/
+$ git clone https://github.com/syakirharis25/NetBeans.git
+$ cd NetBeans/
 $ git remote -v
 $ git status
 ```
 
 <a name="calculation"></a>
-## 6. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 draft
 ```

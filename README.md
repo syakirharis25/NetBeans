@@ -24,6 +24,12 @@ NetBeans official website : https://netbeans.org <br />
 Apache NetBeans official website : https://netbeans.apache.org <br />
 Apache NetBeans official download page : https://netbeans.apache.org/download/index.html <br />
 
+**_Apache NetBeans questions and answers website_** <br />
+Satck Overflow questions and answers website : https://stackoverflow.com <br />
+
+**_Apache NetBeans questions by Stack Overflow_** <br />
+How to fix error while installing NetBeans? by Stack Overflow : https://stackoverflow.com/questions/60771107/how-to-fix-error-while-installing-netbeans <br />
+
 <a name="javadevelopers"></a>
 ## 3. NetBeans developers.
 Roman Staněk : https://twitter.com/RomanStanek <br />

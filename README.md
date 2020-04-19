@@ -24,6 +24,7 @@ Java official website : https://www.oracle.com/java/ <br />
 NetBeans official website : https://netbeans.org <br />
 Apache NetBeans official website : https://netbeans.apache.org <br />
 Apache NetBeans official download page : https://netbeans.apache.org/download/index.html <br />
+JDK 8u111 with NetBeans 8.2 : https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html <br />
 
 **_Apache NetBeans questions and answers website_** <br />
 Satck Overflow questions and answers website : https://stackoverflow.com <br />
